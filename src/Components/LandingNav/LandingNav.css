@@ -1,0 +1,84 @@
+/* .pl-pr-15 {
+    padding: 0px 15px 0px 15px;
+}
+.exp-btn-primary{
+    --bs-btn-bg: #014f86 !important;
+    --bs-btn-border-color: #014f86 !important;
+    --bs-btn-hover-bg:  #014f86 !important;
+    --bs-btn-hover-border-color: #014f86 !important;
+    --bs-btn-active-bg: #014f86 !important;
+    --bs-btn-active-border-color: #014f86 !important;
+    --bs-btn-disabled-bg: #014f86 !important;
+    --bs-btn-disabled-border-color: #014f86 !important;
+}
+
+.exp-btn-outline{
+    --bs-btn-color: #014f86 !important;
+    --bs-btn-border-color: #014f86 !important;
+    --bs-btn-hover-bg: none !important;
+    --bs-btn-hover-color: #014f86 !important;
+    --bs-btn-hover-border-color: #014f86 !important;
+    --bs-btn-active-bg: #014f86 !important;
+    --bs-btn-active-border-color: #014f86 !important;
+    --bs-btn-disabled-color: #014f86 !important;
+    --bs-btn-disabled-border-color: #014f86 !important;   
+}
+.exp-link{
+    color: #1e1e1e;
+    &:hover{
+        font-weight: 500;
+        color: #014f86;
+    } 
+}
+.nav-link{
+    display: flex;
+    align-items: flex-end;
+} */
+.login-container {
+    justify-content: space-between; /* Aligns children elements with space between */
+    align-items: end;
+    padding: 10px; /* Optional: Add padding for better spacing */
+  }
+  
+  h1 {
+    color: rgb(105, 105, 217);
+    font-size: 50px;
+    margin: 0;
+  }
+  
+.nav-link {
+   
+    align-items: end;
+    
+   
+  }
+  
+  .nav-link a {
+
+    padding: 6px;
+    
+
+  }
+  .button-container{
+    display:flex;
+    justify-content: end;
+    
+  }
+
+  .button {
+    color: black;
+    font-variant: normal;
+    margin: 2px;
+    width: 70px;
+    height: 30px;
+    
+    
+  }
+  
+  /* Optional: Adjust button style */
+  .button {
+    background-color: rgb(149, 149, 205);
+    border: none;
+    
+  }
+  
