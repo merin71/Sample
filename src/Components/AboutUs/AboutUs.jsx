@@ -13,8 +13,6 @@ export const AboutUs = () => {
             <h4>Welcome to our financial management app, where your financial well-being is our priority. Our platform offers an 
                   intuitive experience, empowering you to take control of your finances with ease. Seamlessly track your expenses,
                   income, and savings all in one place, allowing you to make informed decisions about money.
-                  {/* <br></br>
-                  <br></br> */}
                   With our budgeting feature, you can create personalized budgets tailored for your financial goals and lifestyle. 
                   Set acheivable goals and milestones, whether it's saving for a dream vacation.
               </h4>
